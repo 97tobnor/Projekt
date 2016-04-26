@@ -1,0 +1,2 @@
+Min och Tobias projekt idé är att skapa en app för apple som tillåter användaren att customisera sin telefon med 
+bland annat bakgrunder, möjligtvist även teman om vi hinner.

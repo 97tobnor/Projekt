@@ -1,0 +1,11 @@
+Vecka 12: planerat arbetet, gjort upp en plan på vad vi vill ha med och hur guit ska se ut.
+Nästa vecka ska vi börja lära oss programmera med Xcode.
+
+Vecka 13-14: jobbat med tutorials för att lära oss programmet x-code.
+Nästa vecka ska vi börja med projektet om allt går som vi planerat
+
+Vecka 15: Börjat smått på projektet genom att börja bygga upp kod samt GUI.
+Nästa vecka ska vi fortsätta jobba med projektet
+
+Vecka 16: Tobias var sjuk idag så jag jobbade med kompletering (crop-OOP)
+Under veckan får vi ta tillbaka det vi missat och nästa vecka jobbar vi på med kodning. 
